@@ -2,7 +2,7 @@
 
 Official Website for Google developer group on campus BIET,Lucknow.
 
-# GDG BIET - Vite + React Application
+# GDG BIET - Vite + React + Tailwindcss Application
 
 This project is a simple web application built with Vite and React for the GDG BIET community.
 
