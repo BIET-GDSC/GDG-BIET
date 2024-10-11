@@ -1,6 +1,6 @@
 import logo from "../assets/logo_dark.svg"
 
-function Nevbar(){
+function Navbar(){
 
     
 
@@ -10,7 +10,7 @@ function Nevbar(){
     </div>
 }
 
-export default Nevbar;
+export default Navbar;
 
 
 function Logo(){

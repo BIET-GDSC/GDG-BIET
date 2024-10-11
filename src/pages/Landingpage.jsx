@@ -1,6 +1,6 @@
 import Circle from "../components/Circle";
 import Header from "../components/Header";
-import Herosection from "../components/HeroSection";
+import Herosection from "../components/Herosection";
 import Square from "../components/Square";
 
 function Landingpage(){
