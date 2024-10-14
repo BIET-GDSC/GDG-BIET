@@ -23,12 +23,12 @@ function Landingpage(){
        
        </div>
        <div className="w-full mt-24 text-2xl p-12 text-center text-[#656C73] font-Lato">
-        <p>At BIET, Lucknow's on campus GDG we are creating a dynamic, ever-growing community of tech enthusiasts who are passionate about <strong className="text-[#34A853]">technology</strong>, <strong className="text-[#4285F4]">development</strong>, and the <strong className="text-[#EA4335]">joy</strong> of continuous learning. </p>
+        <Description></Description>
        </div>
        </div>
 
        <div>
-        <Cards ></Cards>
+        <Cards></Cards>
        </div>
        
        
@@ -36,3 +36,8 @@ function Landingpage(){
 }
 
 export default Landingpage;
+
+function Description(){
+    return <p>At BIET, Lucknow's on campus GDG we are creating a dynamic, ever-growing community of tech enthusiasts who are passionate about <strong className="text-[#34A853]">technology</strong>, <strong className="text-[#4285F4]">development</strong>, and the <strong className="text-[#EA4335]">joy</strong> of continuous learning. </p>
+
+}
