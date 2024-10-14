@@ -1,6 +1,5 @@
 import leftlogo from "../assets/leftlogo.svg"
 import rightlogo from "../assets/rightlogo.png"
-
 function Herosection(){
 
     return <div className="flex flex-row justify-between items-center h-full">
