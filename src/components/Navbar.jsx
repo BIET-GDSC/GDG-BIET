@@ -2,7 +2,7 @@ import logo from "../assets/logo_dark.svg"
 
 function Navbar(){
     
-    return<div className="bg-white w-11/12 h-full rounded-full shadow-lg backdrop-blur-md flex justify-between items-center p-5 border-2 border-gray-200">
+    return<div className="bg-white bg-opacity-10 w-10/12 h-full rounded-full shadow-lg backdrop-blur-md flex justify-between items-center p-5 border-2 border-gray-200">
         <Logo></Logo>
         <Menu></Menu>
     </div>

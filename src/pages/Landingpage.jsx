@@ -4,9 +4,11 @@ import Herosection from "../components/Herosection";
 import Square from "../components/Square";
 import Cards from "../components/Cards";
 
+import gdg_logo from "../assets/gdg_logo.svg";
+
 function Landingpage(){
     const color='#4285F4';
-    return<div className="relative">
+    return<div className="relative ">
        <Header></Header>
        
        <Square block={true} color={color} top={'18rem'} left={'-8rem'} rotate={'15deg'} small={false}>
@@ -22,15 +24,23 @@ function Landingpage(){
         <h3 className="font-Lato text-[#656C73] font-normal text-center mt-5 text-base">On Campus<br/><strong className="text-[#FBBC04] mt-10 text-2xl leading-10">BIET</strong>, Lucknow</h3>
        
        </div>
-       <div className="w-full mt-24 text-2xl p-12 text-center text-[#656C73] font-Lato">
+       <div className="w-full mt-60 text-2xl px-10 text-center text-[#656C73] font-Lato leading-10">
         <Description></Description>
        </div>
        </div>
 
-       <div>
-        <Cards></Cards>
+       <div className="m-auto w-4/6 mt-32 flex justify-center flex-col text-[#656C73]">
+        <p className="pl-20 text-xl font-semibold">We</p>
+        <p className="text-6xl text-center"><strong className="text-[#34A853] bg-green-200 rounded-2xl px-3 mx-1">Learn</strong>,<strong className="text-[#EA4335] bg-red-200 rounded-2xl px-3 mx-1">Innovate</strong> & <strong className="text-[#4285F4] bg-blue-200 rounded-2xl px-3 mx-1">Create</strong></p>
+        <p className="text-center m-5 text-[#FBBC04] text-2xl font-base">while having fun.</p>
        </div>
-       
+       <div className="h-40">
+
+       </div>
+
+       {/* <div>
+        <Cards></Cards>
+       </div> */}
        
     </div>
 }
