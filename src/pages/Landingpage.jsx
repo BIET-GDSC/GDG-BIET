@@ -31,7 +31,7 @@ function Landingpage(){
 
        <div className="m-auto w-4/6 mt-32 flex justify-center flex-col text-[#656C73]">
         <p className="pl-20 text-xl font-semibold">We</p>
-        <p className="text-6xl text-center"><strong className="text-[#34A853] bg-green-200 rounded-2xl px-3 mx-1">Learn</strong>,<strong className="text-[#EA4335] bg-red-200 rounded-2xl px-3 mx-1">Innovate</strong> & <strong className="text-[#4285F4] bg-blue-200 rounded-2xl px-3 mx-1">Create</strong></p>
+        <p className="text-6xl text-center"><strong className="text-[#34A853] bg-green-200 rounded-2xl px-3 mx-2">Learn</strong>,<strong className="text-[#EA4335] bg-red-200 rounded-2xl px-3">Innovate</strong> & <strong className="text-[#4285F4] bg-blue-200 rounded-2xl px-3 mx-1">Create</strong></p>
         <p className="text-center m-5 text-[#FBBC04] text-2xl font-base">while having fun.</p>
        </div>
        <div className="h-40">
