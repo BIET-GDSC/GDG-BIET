@@ -22,7 +22,7 @@ function Menu(){
 
     return<div className="w-1/3">
         <ul className="flex flex-row justify-around">
-            <li className="text-lg font-bold text-gray-500 hover:border-b-4 hover:text-black border-blue-600 duration-100 "><a href="#">About</a></li>
+            <li className="text-lg font-bold text-gray-500 hover:border-b-4 hover:text-black border-blue-600 duration-100 "><a href="#about">About</a></li>
             <li className="text-lg font-bold text-gray-500 hover:border-b-4 hover:text-black border-green-600 duration-100 "><a href="#">Projects</a></li>
             <li className="text-lg font-bold text-gray-500 hover:border-b-4 hover:text-black border-yellow-400 duration-100 "><a href="#">Events</a></li>
         </ul>
