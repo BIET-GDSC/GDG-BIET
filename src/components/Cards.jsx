@@ -1,11 +1,15 @@
 import '../Card.css'; // Uncommented to apply styles
 import { Avatar } from '@mui/material';
 import { Instagram, Facebook, Twitter } from '@mui/icons-material';
+import { useState } from 'react';
 
 const Cards = () => {
+ 
+  const [team,setTeam]=useState({});
+
   return (
     <div className="profile-card">
-      <div className="profile-picture">
+      <div className="profile-picture flex justify-center">
         <Avatar
           alt="Profile Picture"
           src="https://via.placeholder.com/150"
