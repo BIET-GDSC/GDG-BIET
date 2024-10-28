@@ -68,4 +68,4 @@ A big thank you to all our contributors! We appreciate your efforts in making GD
 
 ---
 
-Be sure to check out the **[GDG-Biet GitHub Organization](https://github.com/GDG-Biet/.github)** for more information on our mission, resources, and additional projects!
+Be sure to check out the **[GDG-Biet GitHub Organization](https://github.com/GDG-Biet/)** for more information on our mission, resources, and additional projects!
