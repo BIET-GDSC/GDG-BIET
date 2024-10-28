@@ -1,4 +1,4 @@
- GDG-BIET
+#GDG-BIET
 
 Official Website for the Google Developer Group on campus at BIET, Lucknow.
 
