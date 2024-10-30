@@ -1,4 +1,4 @@
-import '../Card.css'; // Uncommented to apply styles
+// import '../Card.css'; // Uncommented to apply styles
 import { Avatar } from '@mui/material';
 import { Instagram, Facebook, Twitter } from '@mui/icons-material';
 

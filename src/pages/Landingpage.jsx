@@ -2,7 +2,7 @@ import Circle from "../components/Circle";
 import Header from "../components/Header";
 import Herosection from "../components/Herosection";
 import Square from "../components/Square";
-import Cards from "../components/Cards";
+import Cards from "../components/Cards";o
 
 function Landingpage(){
     const color='#4285F4';
