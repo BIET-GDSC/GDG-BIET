@@ -2,7 +2,7 @@ import Circle from "../components/Circle";
 import Header from "../components/Header";
 import Herosection from "../components/Herosection";
 import Square from "../components/Square";
-import Cards from "../components/Cards";
+import Cards from "../components/Cards";o
 
 import topLine from "../assets/top-line.svg";
 import middleLine from "../assets/middle-line.svg";
